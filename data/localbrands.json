@@ -1,0 +1,136 @@
+[{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b5322d"
+  },
+  "name": "5TW",
+  "address": "68/8 Trần Quang Khải, Q3, TP. Hồ Chí Minh",
+  "phoneNumber": "0919555222",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "logo-all-about-him-local-brand-viet-nam-streetwear-585x372.jpg (585×372) (localbrand.vn)"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b5322e"
+  },
+  "name": "SWE",
+  "address": "26 Lý Tự Trọng, Quận 1, TP. Hồ Chí Minh",
+  "phoneNumber": "0919555223",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "86790-585x372.png (585×372) (localbrand.vn)"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b5322f"
+  },
+  "name": "The Call Boy Shoes",
+  "address": "26 Đặng Văn Bi, TP. Thủ Đức, TP. Hồ Chí Minh",
+  "phoneNumber": "0919555224",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "logo-bama-local-brand-viet-nam-streetwear-585x372.png (585×372) (localbrand.vn)"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b53230"
+  },
+  "name": "Icon denim",
+  "address": "210 Trần Quang Khải, Q3, TP. Hồ Chí Minh",
+  "phoneNumber": "0919555225",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "https://localbrand.vn/wp-content/uploads/2020/04/logo-ha-noi-riot-local-brand-streetwear-viet-nam-1-585x372.jpg"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b53231"
+  },
+  "name": "Kilee",
+  "address": "55 Trần Quang Khải, Q1, TP. Hồ Chí Minh",
+  "phoneNumber": "0919555226",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "https://localbrand.vn/wp-content/uploads/2020/04/logo-high-club-local-brand-viet-nam-streetwear-1-585x372.jpg"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b53232"
+  },
+  "name": "Dirtycoins",
+  "address": "Quận 1 - 26 Lý Tự Trọng, Phường Bến Nghé",
+  "phoneNumber": "0919555227",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "logo-all-about-him-local-brand-viet-nam-streetwear-585x372.jpg (585×372) (localbrand.vn)"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b53233"
+  },
+  "name": "Bad Habits",
+  "address": "93 Rạch Bùng Binh,Phường 9, Quận 3",
+  "phoneNumber": "0919555228",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "86790-585x372.png (585×372) (localbrand.vn)"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b53234"
+  },
+  "name": "Hades",
+  "address": "136 NGUYỄN HỒNG ĐÀO, Q.TÂN BÌNH",
+  "phoneNumber": "0919555229",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "logo-bama-local-brand-viet-nam-streetwear-585x372.png (585×372) (localbrand.vn)"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b53235"
+  },
+  "name": "Now Saigon",
+  "address": "445 Sư Vạn Hạnh, P.12, Q.10.",
+  "phoneNumber": "0919555230",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "https://localbrand.vn/wp-content/uploads/2020/04/logo-ha-noi-riot-local-brand-streetwear-viet-nam-1-585x372.jpg"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b53236"
+  },
+  "name": "Tsun",
+  "address": "350 Điện Biên Phủ,Q.Bình Thạnh",
+  "phoneNumber": "0919555231",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "https://localbrand.vn/wp-content/uploads/2020/04/logo-high-club-local-brand-viet-nam-streetwear-1-585x372.jpg"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b53237"
+  },
+  "name": "ALL ABOUT HIM",
+  "address": "Room 4, 2nd Floor, 42 Ton That Thiep, Dist 1Thành phố Hồ Chí Minh",
+  "phoneNumber": "0919555232",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "logo-all-about-him-local-brand-viet-nam-streetwear-585x372.jpg (585×372) (localbrand.vn)"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b53238"
+  },
+  "name": "FOMO",
+  "address": "Tầng 1, 20 Trường Sa, Phường 17, Quận Bình Thạnh, TP. HCM",
+  "phoneNumber": "0919555233",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "86790-585x372.png (585×372) (localbrand.vn)"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b53239"
+  },
+  "name": "BAMA",
+  "address": "391/5 Trần Hưng Đạo,p Cầu Kho, Q.1, Thành phố Hồ Chí Minh",
+  "phoneNumber": "0919555234",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "logo-bama-local-brand-viet-nam-streetwear-585x372.png (585×372) (localbrand.vn)"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b5323a"
+  },
+  "name": "HA NOI RIOT",
+  "address": "3 & 9 Ngõ Bà Triệu , Hai Bà Trưng , Hà Nội.",
+  "phoneNumber": "0919555235",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "https://localbrand.vn/wp-content/uploads/2020/04/logo-ha-noi-riot-local-brand-streetwear-viet-nam-1-585x372.jpg"
+},{
+  "_id": {
+    "$oid": "60ae5bbd1bca945ff4b5323b"
+  },
+  "name": "HIGHCLUB",
+  "address": "62 Huỳnh Văn Bánh, p.15, Q.phú NhuậnThành phố Hồ Chí Minh",
+  "phoneNumber": "0919555236",
+  "description": "Lorem Ipsum is simply dummy text",
+  "logoUrl": "https://localbrand.vn/wp-content/uploads/2020/04/logo-high-club-local-brand-viet-nam-streetwear-1-585x372.jpg"
+}]

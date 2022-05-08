@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "60b915b86381118b3b7414e4"
+  },
+  "productId": {
+    "$oid": "60b09f8c7904b66b746cca2d"
+  },
+  "hashtagId": {
+    "$oid": "60ae5a5c1bca945ff4b5320a"
+  }
+}]

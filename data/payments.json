@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "60ae5b0e1bca945ff4b53229"
+  },
+  "paymentMethod": "Visa"
+},{
+  "_id": {
+    "$oid": "60ae5b0e1bca945ff4b5322a"
+  },
+  "paymentMethod": "COD"
+},{
+  "_id": {
+    "$oid": "60ae5b0e1bca945ff4b5322b"
+  },
+  "paymentMethod": "Momo"
+},{
+  "_id": {
+    "$oid": "60ae5b0e1bca945ff4b5322c"
+  },
+  "paymentMethod": "ZaloPay"
+}]

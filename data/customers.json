@@ -1,0 +1,320 @@
+[{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531e7"
+  },
+  "email": "cuongdp1@gmail.com",
+  "password": "$2b$10$yHlMsVi3QNI7KF.Dqd1nzuVUSIUP2P9tr3IScP1uxs/rnozSkRsia",
+  "phoneNumber": "0123456789",
+  "name": "Cường 1",
+  "gender": "nam",
+  "job": "Lập trình viên",
+  "height": 174,
+  "weight": 74,
+  "bust": 84,
+  "waist": 51,
+  "hip": 97,
+  "hobby": "chơi game"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531e8"
+  },
+  "email": "dinhphucuong2@gmail.com",
+  "password": "$2b$10$Mnw03.MeROaArdJV0bQpCu0HFA.bkcaQYpprTgL3VJWLbL9UGNl3m",
+  "phoneNumber": "0853427377",
+  "name": "Cường 2",
+  "gender": "nam",
+  "job": "Lập trình viên",
+  "height": 173,
+  "weight": 73,
+  "bust": 98,
+  "waist": 57,
+  "hip": 96,
+  "hobby": "chơi game"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531e9"
+  },
+  "email": "cuongdp3@gmail.com",
+  "password": "$2b$10$ZO68Nm1XFcfQitUYpsissuiNplBrTGyu.ax4ULp/NIVefxvlLGi5q",
+  "phoneNumber": "0123456791",
+  "name": "Cường 3",
+  "gender": "nam",
+  "job": "Lập trình viên",
+  "height": 171,
+  "weight": 75,
+  "bust": 84,
+  "waist": 53,
+  "hip": 94,
+  "hobby": "chơi game"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531ea"
+  },
+  "email": "cuongdp4@gmail.com",
+  "password": "$2b$10$K3Ct8qYtmYl7C./k.TNWVO6p/XwtQxPeI89ugIgZi5RV/2jpQmBsu",
+  "phoneNumber": "0123456792",
+  "name": "Cường 4",
+  "gender": "nam",
+  "job": "Lập trình viên",
+  "height": 172,
+  "weight": 78,
+  "bust": 88,
+  "waist": 66,
+  "hip": 98,
+  "hobby": "chơi game"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531eb"
+  },
+  "email": "cuongdp5@gmail.com",
+  "password": "$2b$10$fkYQGEV5GZO6thkM.jIiNOuEgpzz.0xQOHtm.Aax.GYe6UjRI7p8S",
+  "phoneNumber": "0123456793",
+  "name": "Cường 5",
+  "gender": "nam",
+  "job": "Lập trình viên",
+  "height": 170,
+  "weight": 72,
+  "bust": 81,
+  "waist": 62,
+  "hip": 80,
+  "hobby": "chơi game"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531ec"
+  },
+  "email": "linh.5tw@gmail.com",
+  "password": "$2b$10$lJaIo7W/YS8pXleRI2408.k/yaq7P9PrllB4ZbHnmBzn46BLdQPOO",
+  "phoneNumber": "0919996998",
+  "name": "Linh5TW",
+  "gender": "nam",
+  "job": "sinh viên",
+  "height": 150,
+  "weight": 50,
+  "bust": 89,
+  "waist": 66,
+  "hip": 83,
+  "hobby": "chụp ảnh "
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531ed"
+  },
+  "email": "linh.swe@gmail.com",
+  "password": "$2b$10$fP9dGe5iTWFcWqjySdky9uFEowdG2DqxawGaKCy6s2yn1IG9VIPIC",
+  "phoneNumber": "0919996999",
+  "name": "LinhSWE",
+  "gender": "nam",
+  "job": "kỹ sư",
+  "height": 163,
+  "weight": 69,
+  "bust": 91,
+  "waist": 68,
+  "hip": 80,
+  "hobby": "gaming"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531ee"
+  },
+  "email": "linh.thecallboyshoes@gmail.com",
+  "password": "$2b$10$2LaQJJ/E.9FaEPWygYd2Z.LCPVEPX/YcudjZ86Kgirj./ogc41Hja",
+  "phoneNumber": "0919997000",
+  "name": "LinhTCB",
+  "gender": "nam",
+  "job": "Lập trình viên",
+  "height": 173,
+  "weight": 49,
+  "bust": 81,
+  "waist": 63,
+  "hip": 95,
+  "hobby": "ăn "
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531ef"
+  },
+  "email": "linh.rowan@gmail.com",
+  "password": "$2b$10$riliqxt1dJiBYV0uBk6md.0Xl7Nix3lajUcUtNQzAvsJeDOpMXarG",
+  "phoneNumber": "0919997001",
+  "name": "LinhRowan",
+  "gender": "nam",
+  "job": "kiến trúc sư",
+  "height": 189,
+  "weight": 78,
+  "bust": 85,
+  "waist": 54,
+  "hip": 84,
+  "hobby": "du lịch"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531f0"
+  },
+  "email": "linh.icondenim@gmail.com",
+  "password": "$2b$10$5exNRw8L2RTOx255FWPWW.ubvxnKYIdNrIed2x9ayiL/Nl9UTzsE2",
+  "phoneNumber": "0919997002",
+  "name": "LinhIcon",
+  "gender": "nam",
+  "height": 200,
+  "weight": 90,
+  "bust": 98,
+  "waist": 65,
+  "hip": 98,
+  "hobby": "đọc sách"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531f1"
+  },
+  "email": "qthai20102002@gmail.com",
+  "password": "$2b$10$.4lUXHNe2PvpZTxFjU5ELOhs49B7yRKsNqhPlJqz0iYjEKRFzorx6",
+  "phoneNumber": "0945492731",
+  "name": "Thai number",
+  "gender": "MALE",
+  "job": "sinh viên",
+  "height": 147,
+  "weight": 52,
+  "bust": 85,
+  "waist": 56,
+  "hip": 81,
+  "hobby": "chơi game",
+  "expoPushToken": "ExponentPushToken[nN-w4gCuOKwKHiJ6pMpL04]",
+  "profileUrl": "https://storage.googleapis.com/localrunway.appspot.com/014c1d6f-35ac-4c0b-85ba-f1a4e7a077b0.png?GoogleAccessId=firebase-adminsdk-g4m0z%40localrunway.iam.gserviceaccount.com&Expires=16446992400&Signature=SA6k%2FkoJiE1REdCoJ2PVKtSFdFA89Ev75NbEPntA%2BlMpxhuRuSaEtIm0fYxskGlNDwD9torse17fIbO%2F7a8g5jJNvtbOJLJYztDZ8TAkU%2Bq6iFarFYRTEpld2UZvvvJPloyGMDaOyNNds%2BS1FXiFwD2j1i%2FW0v7FRSsOwTKVLzyEbB96OoieJ4UZpOogp9M9BppDlsT%2FDE8g6A4ht2ddM8tpakn62elSD%2BjceeaEZ9sRtQh8NuHeqtJBKSzH%2FFTu1iKjmVY1tRJkoVAVsiXDI4fWB9azqibP09fTConjTELF9xMjdu%2B9N9VvwjE3nmcIjTr3j0endotFc7nRIjUedA%3D%3D"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531f2"
+  },
+  "email": "qthai1@gmail.com",
+  "password": "$2b$10$Rfxuo/v5SqoMAJl9/rrRoeGx2bMlebqg6ji7Ko.VhrxISREWoMgOi",
+  "phoneNumber": "0945492732",
+  "name": "Thai 2",
+  "gender": "nam",
+  "job": "sinh viên",
+  "height": 160,
+  "weight": 60,
+  "bust": 97,
+  "waist": 55,
+  "hip": 99,
+  "hobby": "chơi game"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531f3"
+  },
+  "email": "qthai2@gmail.com",
+  "password": "$2b$10$qxAfvzi9X3TlY2ZgzYz5peaQsavJp.VSRBHcOtYpI1B8UTGoyXJy2",
+  "phoneNumber": "0945492733",
+  "name": "Thai 3",
+  "gender": "nam",
+  "job": "sinh viên",
+  "height": 160,
+  "weight": 60,
+  "bust": 83,
+  "waist": 55,
+  "hip": 80,
+  "hobby": "chơi game",
+  "fb_userId": "3103803883230111"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531f4"
+  },
+  "email": "qthai3@gmail.com",
+  "password": "$2b$10$1S.ponRQ9uWvwuK6gUws6uApXwZa4ztbs176dkycpvK04uCpAb1Va",
+  "phoneNumber": "0945492734",
+  "name": "Thai 4",
+  "gender": "nam",
+  "job": "sinh viên",
+  "height": 160,
+  "weight": 60,
+  "bust": 86,
+  "waist": 52,
+  "hip": 91,
+  "hobby": "chơi game"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531f5"
+  },
+  "email": "qthai4@gmail.com",
+  "password": "$2b$10$QDtOaCpfaihlZauTwblM5.PNzyUO.Qi1t/e834jhwBiSNrw2sg4DS",
+  "phoneNumber": "0945492735",
+  "name": "Nguyễn Quốc Thái",
+  "gender": "MALE",
+  "job": "sinh viên",
+  "hobby": "chơi game",
+  "expoPushToken": "ExponentPushToken[5j8bXeEwPW6Y0deI3mLf1H]",
+  "profileUrl": "https://storage.googleapis.com/localrunway.appspot.com/a2075d32-ab8a-48dc-99dc-bc43dad6e37c.jpg?GoogleAccessId=firebase-adminsdk-g4m0z%40localrunway.iam.gserviceaccount.com&Expires=16446992400&Signature=NM7G7q7Vvs%2By9ODlk9yZipoSyHa9U62xos0%2F%2BKEbRwKIqt1tHs%2FwfPWgGjjyxNQaA9czzemjElK%2BWWa6ZY5GYI4ESAUlTsgi371iRgGvtHjqhdi7AwlJ4KIlNFkOm%2F%2BHmiORcjTA6bGGtE81vC%2FIw9owSANLUZuKbNQR3M0zs81Y7IFr%2B0mGMHOJCDV%2FlcSDxw97%2BBK%2BOfIZT34wkBp4VWrM2MhArcADj8qufcaz8e0clS%2Bwj4eFtbmFN%2FXZlnfIgQ%2Bre8H82%2BsIobrhU77JxxVWlswPL%2BQVvRVN8AnX4tAJgNsQdMJMXkjGpgN5Upa5cxaOpsLQKFp0yP8yvTCBiQ%3D%3D"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531f6"
+  },
+  "email": "kndev1@gmail.com",
+  "password": "$2b$10$ywlyXH.WZvutRzmdRcZNyuv1845U/gWMrmKHC2hCaf1wP98.hieRW",
+  "phoneNumber": "0856789551",
+  "name": "Nguyên I",
+  "gender": "nam",
+  "job": "sinh viên",
+  "height": 173,
+  "weight": 68,
+  "bust": 97,
+  "waist": 62,
+  "hip": 83,
+  "hobby": "xem phim"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531f7"
+  },
+  "email": "kndev2@gmail.com",
+  "password": "$2b$10$zwK.7bmS3ZbQTo9qg.gUCOZwRxnKURwl6tCTwpUkXuBSwnHV9ga4W",
+  "phoneNumber": "0856789552",
+  "name": "Nguyên II",
+  "gender": "nam",
+  "job": "kỹ sư",
+  "height": 175,
+  "weight": 61,
+  "bust": 90,
+  "waist": 58,
+  "hip": 97,
+  "hobby": "du lịch"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531f8"
+  },
+  "email": "kndev3@gmail.com",
+  "password": "$2b$10$Z.j0z6sRIKEMfc7mYRmcp.URRe1jq.3AC7QxCTYvmwYvXrGUvJ4zK",
+  "phoneNumber": "0856789553",
+  "name": "Nguyên III",
+  "gender": "nam",
+  "job": "học sinh",
+  "height": 179,
+  "weight": 73,
+  "bust": 91,
+  "waist": 54,
+  "hip": 95,
+  "hobby": "ca hát"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531f9"
+  },
+  "email": "kndev4@gmail.com",
+  "password": "$2b$10$mX3F.tRqGnOwrIgwm9aCd.GbWx/NP.OMCbeBG6Dmd07kEEJgB0N3i",
+  "phoneNumber": "0856789554",
+  "name": "Nguyên IV",
+  "gender": "nam",
+  "job": "kế toán",
+  "height": 179,
+  "weight": 65,
+  "bust": 97,
+  "waist": 52,
+  "hip": 90,
+  "hobby": "đọc sách"
+},{
+  "_id": {
+    "$oid": "60ae59c81bca945ff4b531fa"
+  },
+  "email": "kndev5@gmail.com",
+  "password": "$2b$10$3ijk6fRmDALwlKiEttuMWuGbPkelHRJRYKNo8A/H9vwu7iRxgt5wi",
+  "phoneNumber": "0856789555",
+  "name": "Nguyên V",
+  "gender": "nam",
+  "job": "tiếp thị",
+  "height": 178,
+  "weight": 62,
+  "bust": 80,
+  "waist": 55,
+  "hip": 83,
+  "hobby": "du lịch"
+}]

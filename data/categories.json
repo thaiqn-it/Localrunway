@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b53219"
+  },
+  "name": "Jacket"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b5321a"
+  },
+  "name": "Vest"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b5321b"
+  },
+  "name": "Suit"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b5321c"
+  },
+  "name": "Polo Shirt"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b5321d"
+  },
+  "name": "Shirt"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b5321e"
+  },
+  "name": "T-Shirt"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b5321f"
+  },
+  "name": "Tee"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b53220"
+  },
+  "name": "Sweater"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b53221"
+  },
+  "name": "Hoodie"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b53222"
+  },
+  "name": "Accessories"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b53223"
+  },
+  "name": "Pants"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b53224"
+  },
+  "name": "Backpack "
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b53225"
+  },
+  "name": "Bumpack"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b53226"
+  },
+  "name": "Sock"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b53227"
+  },
+  "name": "Underwear"
+},{
+  "_id": {
+    "$oid": "60ae5abe1bca945ff4b53228"
+  },
+  "name": "Dress"
+}]

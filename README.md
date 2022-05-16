@@ -1,7 +1,10 @@
 # Localrunway
 
 Hướng dẫn :
-1. Pull code từ branch dev
+1. Pull code từ branch dev của các repo sau :
+- Api : https://github.com/thaiqn-it/localrunway-api'
+- Mobile app : https://github.com/thaiqn-it/localrunway-mobile
+- Admin web : https://github.com/thaiqn-it/localrunway-admin
 2. Sử dụng MongoDB Compass tạo một db tên localrunway.
 3. Tạo các collection tương ứng và import data từ thư mục data.
 
